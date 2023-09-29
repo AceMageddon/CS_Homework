@@ -1,0 +1,14 @@
+G:\VisualStudioHomework\Seminar4\bin\Debug\net6.0\Seminar4.exe
+G:\VisualStudioHomework\Seminar4\bin\Debug\net6.0\Seminar4.deps.json
+G:\VisualStudioHomework\Seminar4\bin\Debug\net6.0\Seminar4.runtimeconfig.json
+G:\VisualStudioHomework\Seminar4\bin\Debug\net6.0\Seminar4.dll
+G:\VisualStudioHomework\Seminar4\bin\Debug\net6.0\Seminar4.pdb
+G:\VisualStudioHomework\Seminar4\obj\Debug\net6.0\Seminar4.GeneratedMSBuildEditorConfig.editorconfig
+G:\VisualStudioHomework\Seminar4\obj\Debug\net6.0\Seminar4.AssemblyInfoInputs.cache
+G:\VisualStudioHomework\Seminar4\obj\Debug\net6.0\Seminar4.AssemblyInfo.cs
+G:\VisualStudioHomework\Seminar4\obj\Debug\net6.0\Seminar4.csproj.CoreCompileInputs.cache
+G:\VisualStudioHomework\Seminar4\obj\Debug\net6.0\Seminar4.dll
+G:\VisualStudioHomework\Seminar4\obj\Debug\net6.0\refint\Seminar4.dll
+G:\VisualStudioHomework\Seminar4\obj\Debug\net6.0\Seminar4.pdb
+G:\VisualStudioHomework\Seminar4\obj\Debug\net6.0\Seminar4.genruntimeconfig.cache
+G:\VisualStudioHomework\Seminar4\obj\Debug\net6.0\ref\Seminar4.dll
