@@ -1,0 +1,11 @@
+<Person name=”ФИО человека” >
+    <Address>
+        <Street>Название улицы</Street>
+        <HouseNumber>Номер дома</HouseNumber>
+        <FlatNumber>Номер квартиры</FlatNumber>
+    </Address>
+    <Phones>
+        <MobilePhone>89999999999999</MobilePhone>
+        <FlatPhone>123-45-67<FlatPhone>
+    </Phones>
+</Person>

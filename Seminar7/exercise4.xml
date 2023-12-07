@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="ГДА">
+  <Adress>
+    <Street>Улицовская</Street>
+    <HouseNumber>29</HouseNumber>
+    <FlatNumber>123</FlatNumber>
+  </Adress>
+  <Phones>
+    <MobilePhone>88005353535</MobilePhone>
+    <FlatPhone>12-32-12</FlatPhone>
+  </Phones>
+</Person>
